@@ -2,7 +2,7 @@
 name: 🐞 2. Reporte de Bug / Caso de Prueba Fallido
 about: Para reportar y documentar fallos en el software y su corrección.
 title: "[BUG] M_MODULO: Breve descripción del comportamiento incorrecto"
-labels: ['S: Medium', 'Type: Bug', 'M_GAMEPLAY']
+labels: ['Type: Bug']
 assignees: ['@username']
 
 ---
