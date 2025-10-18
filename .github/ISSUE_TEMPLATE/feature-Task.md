@@ -63,10 +63,13 @@ assignees: ['@username']
 3.  **Trazabilidad:** El PR debe referenciar este ID y el Log de Trazabilidad debe estar completo.
 
 ---
+
 ### 📐 Referencia de Arquitectura (UML - Nuevo)
-*Obligatorio: Mencione o enlace el diagrama relevante.*, se pueden subir al momento de comentar. 
-> [Ej: Ver Diagrama de Clases V2.0 (`docs/uml/classes.puml`)].
-> [Descripción de las clases o interfaces que serán afectadas/creadas].
+Obligatorio: Mencione o enlace el diagrama relevante.
+
+   >Diagramas y capturas de pantalla de los compunestes o template completo
+---
+
 
 ---
 
