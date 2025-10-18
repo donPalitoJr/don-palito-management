@@ -70,10 +70,6 @@ Obligatorio: Mencione o enlace el diagrama relevante.
    >Diagramas y capturas de pantalla de los compunestes o template completo
 ---
 
-
----
-
-
 ## 💾 Documentación de Trazabilidad del Cambio (POST-FUSIÓN)
 
 **Esta sección se completa ÚNICAMENTE después de que la tarea haya sido fusionada y verificada.** Sirve como un registro final, estandarizado y trazable.
