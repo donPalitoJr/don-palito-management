@@ -1,7 +1,7 @@
 ---
 name: 🚀 1. Feature / Task (Implementación)
 about: Para implementar nuevas funcionalidades, refactorización de código o tareas de infraestructura.
-title: "[ID]: [TIPO](MODULO): Título Conciso"
+title: "[**RF 1**ID tarea**]: [TIPO](MODULO): Título Conciso"
 labels: ['P: Medium', 'Type: Feat']
 assignees: ['@username']
 ---
