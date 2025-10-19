@@ -78,8 +78,8 @@ Cada **requisito funcional o módulo** se representa mediante una **Issue**, la 
 
 | Etiqueta | Descripción |
 |-----------|--------------|
-| `frontend-web` | Tareas relacionadas con la interfaz web. |
-| `frontend-mobile` | Tareas del módulo móvil. |
+| `full-web` | Tareas relacionadas con la interfaz web. |
+| `full-mobile` | Tareas del módulo móvil. |
 | `backend` | Desarrollo o integración del servidor. |
 | `documentacion` | Actualización o creación de documentación. |
 | `alta-prioridad` | Requisito crítico o dependiente de otros. |
